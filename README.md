@@ -5,7 +5,7 @@ This project is a high-quality landing page template originally provided by the 
 ---
 
 ## 📺 Live Demo
-👉 [View the Landing Page Live](https://DevRainer.github.io/Oliveira_&_Associados_Advogados_Escritório_de_dvocacia)
+👉 [View the Landing Page Live](https://devrainer.github.io/advocacia/)
 
 ---
 
